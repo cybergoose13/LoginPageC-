@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programming\\Dojo_Assignments\\C#\\ASP\\FormSubmission\\FormSubmission.csproj",
+      "projectUniqueName": "D:\\VSCode\\LoginPageC-Sharp\\FormSubmission.csproj",
       "projectName": "FormSubmission",
-      "projectPath": "F:\\Programming\\Dojo_Assignments\\C#\\ASP\\FormSubmission\\FormSubmission.csproj",
+      "projectPath": "D:\\VSCode\\LoginPageC-Sharp\\FormSubmission.csproj",
       "packagesPath": "C:\\Users\\Goose\\.nuget\\packages\\",
-      "outputPath": "F:\\Programming\\Dojo_Assignments\\C#\\ASP\\FormSubmission\\obj\\",
+      "outputPath": "D:\\VSCode\\LoginPageC-Sharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Goose\\AppData\\Roaming\\NuGet\\NuGet.Config"

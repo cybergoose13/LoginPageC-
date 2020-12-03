@@ -1,24 +1,43 @@
 *{
     margin: auto;
-    padding: 5px;
+    padding: 1%;
+}
+
+body{
+    background-color: #afeeee !important;
+}
+
+form{
+    width: 50%;
+    background-color: #72c1df;
+    border-radius: 1%;
+}
+
+fieldset{
+    width: 100%;
+    text-align: center;
+    text-shadow: #afeeee 0 3px 2px ;
+    border-top: black solid 1px !important;
 }
 
 h1{
     text-align: center;
 }
 
+p{
+    text-align: center;
+}
+
 input{
-    width: 50.25%;
-    margin: 10px;
-    /* margin-right: 1px; */
+    width: 100%;
+    margin-bottom: 2px !important;
 }
 
 #name-input{
-    width: 25%;
-    margin-right: 0;
+    width: 49.5%;
+    white-space: nowrap;
 }
 
 #btn-submit{
-    /* border-radius: 20%; */
     box-shadow: black 0 1px 2px;
 }

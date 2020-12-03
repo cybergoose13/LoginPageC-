@@ -18,8 +18,8 @@
 <body>
 
     <form asp-action="MakeUser" asp-controller="Home" method="post">
-        <div>
-
+        <fieldset>
+            <legend>Register</legend>
             <!-- <label asp-for="FirstName"></label> -->
             <input id="name-input" asp-for="FirstName">
             
@@ -50,7 +50,7 @@
             <br>
             
             <input id="btn-submit" value="Register" type="submit">
-        </div>
+        </fieldset>
     </form>
 
     <div>
