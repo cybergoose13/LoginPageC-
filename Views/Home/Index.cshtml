@@ -17,9 +17,10 @@
 </head>
 <body>
 
+    <h2 class="text-center">Simple Login Form</h2>
     <form asp-action="MakeUser" asp-controller="Home" method="post">
         <fieldset>
-            <legend>Register</legend>
+            <legend>Sign Up</legend>
             <!-- <label asp-for="FirstName"></label> -->
             <input id="name-input" asp-for="FirstName">
             
@@ -54,7 +55,7 @@
     </form>
 
     <div>
-        <p>Already have an account? <a href="/">Sign in</a></p>
+        <p>Already have an account? <a href="/SignIn">Sign in</a></p>
     </div>
 </body>
 </html>

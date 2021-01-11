@@ -24,6 +24,10 @@ h1{
     text-align: center;
 }
 
+h2{
+    text-shadow: #72c1df 0 3px 2px ;
+}
+
 p{
     text-align: center;
 }

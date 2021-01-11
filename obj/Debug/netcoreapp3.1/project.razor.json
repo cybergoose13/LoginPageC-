@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\VSCode\\LoginPageC-Sharp\\FormSubmission.csproj",
+  "FilePath": "d:\\VSCode\\c#_projects\\LoginPageC-Sharp\\FormSubmission.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,18 +14392,23 @@
   "RootNamespace": "FormSubmission",
   "Documents": [
     {
-      "FilePath": "d:\\VSCode\\LoginPageC-Sharp\\Views\\Home\\Result.cshtml",
-      "TargetPath": "Views\\Home\\Result.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\VSCode\\LoginPageC-Sharp\\Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\VSCode\\c#_projects\\LoginPageC-Sharp\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\VSCode\\LoginPageC-Sharp\\Views\\_ViewImports.cshtml",
+      "FilePath": "d:\\VSCode\\c#_projects\\LoginPageC-Sharp\\Views\\Home\\signin.cshtml",
+      "TargetPath": "Views\\Home\\signin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\VSCode\\c#_projects\\LoginPageC-Sharp\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\VSCode\\c#_projects\\LoginPageC-Sharp\\Views\\Home\\Result.cshtml",
+      "TargetPath": "Views\\Home\\Result.cshtml",
       "FileKind": "mvc"
     }
   ],

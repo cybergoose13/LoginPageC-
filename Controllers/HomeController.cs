@@ -24,5 +24,10 @@ namespace FormSubmission.Controllers{
                 return Index();
             }
         }
+
+        [HttpGet("signin")]
+        public IActionResult SignIn(){
+            return View();
+        }
     }
 }
